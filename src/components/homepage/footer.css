@@ -47,7 +47,7 @@
     justify-content: space-between;
 }
 
-.logos img{
+.footer .logos img{
     width: 1.6rem;
     cursor: pointer;
 }
